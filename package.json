@@ -1,0 +1,25 @@
+{
+  "name": "gb-filter-json",
+  "version": "0.0.1",
+  "description": "Filter the data in JSON format based on request (Express4)",
+  "main": "gb-filter-json.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grzegorz-bylica/gb-filter-json.git"
+  },
+  "keywords": [
+    "express4",
+    "filter",
+    "json",
+    "request"
+  ],
+  "author": "Grzegorz Bylica <grzegorz.bylica.code@gmail.com> (ask)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/grzegorz-bylica/gb-filter-json/issues"
+  },
+  "homepage": "https://github.com/grzegorz-bylica/gb-filter-json#readme"
+}
